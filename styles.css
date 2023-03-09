@@ -1,8 +1,11 @@
 .grid-container{
     width: 95%;
     min-height: 100vh;
+    display: flex;
     background: #000;
     padding: 40px 20px;
+    justify-content: center;
+    align-items: center;
     
 }
 
